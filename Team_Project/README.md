@@ -10,3 +10,7 @@
 | pandas      |  1.1.3  |
 | seaborn     |  0.11.0 |
 
+### CSV 파일
+- today_corona_edit.csv : 인구수 상위 90개국
+- Natl_GDP : 인구수 상위 90개국의 GDP (2021년 자료)
+  - 링크 : https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD
