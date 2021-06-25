@@ -11,6 +11,6 @@
 | seaborn     |  0.11.0 |
 
 ### CSV 파일
-- today_corona_edit.csv : 인구수 상위 90개국의 국가명, 확진자, 치료중, 사망자, 치명율, 완치율, 발생률, 인구수, 
+- today_corona_edit.csv : 인구수 상위 90개국의 국가명, 확진자, 치료중, 사망자, 치명율, 완치율, 발생률, 인구수, 국토면적 자료
 - Natl_GDP : 인구수 상위 90개국의 GDP (2021년 자료)
   - 링크 : https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD
