@@ -14,3 +14,4 @@
 - today_corona_edit.csv : 인구수 상위 90개국의 국가명, 확진자, 치료중, 사망자, 치명율, 완치율, 발생률, 인구수, 국토면적 자료
 - Natl_GDP : 인구수 상위 90개국의 GDP (2021년 자료)
   - 링크 : https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD
+- 국가별 국토 면적 순위 : https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EB%B3%84%20%EA%B5%AD%ED%86%A0%20%EB%A9%B4%EC%A0%81%20%EC%88%9C%EC%9C%84
