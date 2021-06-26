@@ -9,3 +9,10 @@
 
 3. 지역별 미세먼지, 초미세먼지에 의한 해수면 상승률 상관관계 비교
 
+분기별 범죄 : https://www.spo.go.kr/site/spo/ex/board/View.do
+
+범죄발생 및 검거동향 : https://stat.kosis.kr/nsieu/view/tree.do?task=branchView&id=132_13204*MT_OTITLE&hOrg=132
+
+파이썬 형태소 분석 워드클라우드 : https://thinkwarelab.wordpress.com/2016/08/30/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C-%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B7%B8%EB%A6%AC%EA%B8%B0/
+
+한국 자살현황 : https://spckorea-stat.or.kr/korea01.do
