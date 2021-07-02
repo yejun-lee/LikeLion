@@ -1,6 +1,27 @@
 - 오늘의 내용
-
+(1) 리뷰(파이썬 라이브러리) 및 실습
+(2) 과제 체크 및 제출 ( tkinter 제출, 영화 10page 제출, folium 제출)
+https://docs.google.com/spreadsheets/d/1W0VSxGMdj5MypceJ0guItha1IdW_Y-2YmEfRM-O-gRw/edit?usp=sharing
+(3) 팀별 프로젝트 중간 - 11:30 (2-3분 - 현재까지 진행된 상황.)
+(4) 팀별 프로젝트 중간 발표 - 16:00 (5분씩 중간 발표)
+    - 팀별 피드백
+(5) 하루 정리 및 마무리
 
 - 오늘의 목표
+- 지난 시간에 대해 좀 더 알아보고 확인해 본다.
+- 팀별 프로젝트를 수행한다.
 
+
+수연님 : 2 4 6 80대 그룹
+
+아름님 : 몸무게
+
+
+===========
+http://edition.cnn.com/2009/HEALTH/11/24/moh.healthmag.cholesterol.surprises/index.html
+콜레스테롤 1000 넘는경우가 거의 100만분의 1
+유전적인 요소가 크고 20대에 사망하는 경우가 많다.
+===========
+
+작년의 지표가 내년에 영향을 미치지 않기때문에 표본으로만 본다.
 
