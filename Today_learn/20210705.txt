@@ -29,3 +29,8 @@ https://docs.google.com/spreadsheets/d/1W0VSxGMdj5MypceJ0guItha1IdW_Y-2YmEfRM-O-
  팀별 중간 발표( 10:05~ )
  팀별 프로젝트를 수행한다.
 
+
+초기 : 0.76555 
+Title과 Ticket 추가 후 : 0.75598
+Title과 Ticket 간소화 후 : 0.75119
+-> Familysize 추가 후 : 0.75119
