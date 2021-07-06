@@ -32,7 +32,6 @@
 | matplotlib  |  3.3.2  |
 | pandas      |  1.1.3  |
 | seaborn     |  0.11.0 |
-| numpy       |  1.19.2 |
 
 ### 과제 개요 
 
