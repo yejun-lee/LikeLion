@@ -14,23 +14,22 @@
 | matplotlib | 3.3.2 | 그래프 출력 및 추가 정보 삽입 등 | 
 
 
-- 네이버 영화 리뷰 수집 : https://movie.naver.com/
+#### 네이버 영화 리뷰 수집 : https://movie.naver.com/
 
 
-- Amazon 리뷰 수집 : https://www.amazon.com/
+#### Amazon 리뷰 수집 : https://www.amazon.com/
 1. BeautifulSoup을 이용해 50페이지 Crawling
 2. Selenium을 이용해 50페이지 Crawling
 3. 이 둘의 구동 시간을 비교
 
-### 결과
-time.sleep 함수를 감안한 구동시간 측정 -> Selenium이 더 빠른 것으로 확인
+- 결과
 
-원래 BeautifulSoup이 더 빨라야 함. 결과가 다르게 나온 이유 조사하기.
+> time.sleep 함수를 감안한 구동시간 측정 -> Selenium이 더 빠른 것으로 확인
+
+> 원래 BeautifulSoup이 더 빨라야 함. 결과가 다르게 나온 이유 조사하기.
 
 
-
-
-- Covid-19 90개국 데이터 수집 : https://coronaboard.kr/
+#### Covid-19 90개국 데이터 수집 : https://coronaboard.kr/
 1. 전세계 인구 top 90 개국의 10개 정보(국가, 확진자, 환자, 사망자, 완치, 치명율, 완치율, 발생율, 인구수, 국토 면적)를 추출
 2. 이 parameter 중 하나를 중점으로 다른 parameter와의 상관관계를 조사
 3. 데이터를 시각화
