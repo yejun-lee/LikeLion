@@ -19,6 +19,17 @@ https://github.com/LDJWJ/ML_Basic_Class
 ==================
 
 
-
-
 - 오늘의 목표
+
+max_depth가 3일 때, 
+- test_size=0.1 : worst perimeter
+- test_size=0.2 : worst radius
+- test_size=0.3 : worst concave points
+- test_size=0.4 : mean concave points
+
+max_depth가 5일 때, 
+- test_size=0.1 : worst perimeter 0.7496
+- test_size=0.2 : worst radius 0.7777
+- test_size=0.3 : worst concave points 0.7522
+- test_size=0.4 : mean concave points 0.7439
+
