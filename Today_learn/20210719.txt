@@ -16,6 +16,7 @@ https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_01.html
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_02.html
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_03_RandomForest_03.html
 https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_05_gradient_boosting_class_v11.html
+
 (1) 지난 시간 리뷰
 (2) 의사결정트리, 앙상블 알아보기
 (3) 앙상블 기법(RandomForest), 그래디언트 부스팅(Gradient Boosting) 이해 및 실습
@@ -23,3 +24,16 @@ https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch02_03_05_gradient_boosting_cl
 (5) 하루 정리 및 마무리
 (6) 대회 면담(6교시, 7교시)
 ===== ===== ===== ===== =====
+
+사전 가지치기
+- max_depth, leaf_node의 수를 제한하는 방법
+
+사후 가지치기
+- 전체 트리를 완성한 이후 데이터가 적은 노드들을 병합하거나 삭제하는 것
+
+1. 결측치 있는지 없는지 확인
+2. outlier 확인
+3. 시각화를 통한 데이터 분포 확인
+4. 전처리
+5. 전처리 시각화
+
