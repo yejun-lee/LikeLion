@@ -1,0 +1,46 @@
+detect toxic comments ― and minimize unintended model bias?
+
+The Conversation AI team builds technology to protect voices in conversation.
+
+machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion.
+
+유해한 말을 거르는 머신러닝 모델을 개발하려한다.
+
+This year's competition is a related challenge: building toxicity models that operate fairly across a diverse range of conversations.
+
+다양한 범위의 대화에서 공정하게 작용하는 모델을 개발하는 것이 목표
+
+Models predicted a high likelihood of toxicity for comments containing those identities (e.g. "gay"), even when those comments were not actually toxic (such as "I am a gay woman").
+실제로 그런 의도로 사용되지 않은 것임에도 불구하고 단어 자체만 보고 유해하다고 판단하는 경우가 많다.
+
+This happens because training data was pulled from available sources where unfortunately, certain identities are overwhelmingly referred to in offensive ways. 
+학습 데이터가 공격적인 성향을 띄는 곳에서 추출됐을 때 발생한다.
+
+Training a model from data with these imbalances risks simply mirroring those biases back to users.
+이런 편향성을 되돌려준다.
+
+목표 : build a model that recognizes toxicity and minimizes this type of unintended bias with respect to mentions of identities.
+
+You'll be using a dataset labeled for identity mentions and optimizing a metric designed to measure unintended bias.
+
+대회의 배경을 알아보고 도메인을 학습하는데에도 많은 시간을 사용하시나요?
+
+기업 - 프로덕션
+
+대학원 - 기업 과제
+
+기업과제 많은곳은 남는게 없을수도...
+
+면학분위기
+
+고려대학교 
+
+선배들의 아웃풋
+
+대학원, 나쁘지 않다.
+
+잘하면 장땡!
+대기업 공채는 조금 다를수도 있지만 내가 잘하는지 보여줄수만 있으면 됌
+
+JAVA, SQL, 클라우드 컴퓨팅 - 리눅스, CLI(Comment Line Interface), Docker
+

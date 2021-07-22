@@ -1,0 +1,45 @@
+### 07/21(수) - 머신러닝 기본
+
+[학습 목표]
+
+- 머신러닝의 피처 생성을 통해 기능을 개선해본다.
+
+[학습 내용]
+
+===== ===== ===== ===== =====
+
+[자료 위치] 07_머신러닝_기본다지기 -
+code : https://github.com/LDJWJ/ML_Basic_Class
+
+### 머신러닝 - 대회 베이스라인 만들기
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/dacon_07_feature_engineering_01.html
+
+(1) 지난 시간 리뷰
+(2) 대회 기본 베이스라인 모델
+(3) 데이콘 대회 기본 및 실습(3교시 ~ 7교시)
+(4) 하루 정리 및 마무리
+(5) 면담(5교시, 6교시)
+
+===== ===== ===== ===== =====
+
+sel = ['총세대수', '임대건물구분', '지역', '공급유형', '전용면적', 
+       '전용면적별세대수', '공가수', '자격유형', '임대보증금', '임대료', 
+       '지하철', '버스정류장', '단지내주차면수']
+
+Gradient_B = GradientBoostingRegressor(learning_rate=0.11, 
+                                      n_estimators=2300, max_depth=3, 
+                                      random_state=123)
+
+kfold = RepeatedKFold(n_splits=5, n_repeats=1, random_state=234)
+
+test_score = cross_val_score(Gradient_B, X_test, y_test, 
+                                cv=kfold, scoring='neg_mean_absolute_error')
+
+--------------------------------------------
+estimators : 2300 , learning rate : 0.11
+train score : -24.5455
+test score : -65.3653
+--------------------------------------------
+
+공통으로 깊게 알고싶은 부분
+
